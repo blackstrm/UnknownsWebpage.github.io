@@ -1,0 +1,45 @@
+@font-face {
+    font-family: kiddos;
+    src: url(kiddos_2/KIdDOS-Regular.ttf);
+}
+
+
+body{
+    background-color: #111;
+    padding: 4%
+    
+}
+ 
+
+h1{
+    font-family:kiddos ;
+    color:blanchedalmond
+}
+
+h6{
+    font-family:kiddos ;
+    color:blanchedalmond
+}
+
+.container{
+    color:#999;
+    font-family:kiddos;
+    border: 3px solid white;
+    border-radius: 4px;
+    
+
+    }
+
+mark{background-color: blanchedalmond;
+     font-size: 20px;
+
+}
+ P{
+    font-size: 20px;
+ }
+
+ marker{background-color: blanchedalmond;
+    font-size: 20px;
+
+ }
+    
